@@ -9,7 +9,7 @@ Welcome! This is a clean, ready-to-use list of **28,954 information technology a
 | File | Rows | Format | Link |
 |---|---|---|---|
 | **Free sample** | 500 rows | CSV | [companies_sample500.csv](companies_sample500.csv) |
-| **Full dataset** | **28,954 rows** | CSV + JSON | Buy on Gumroad -- $2 per 10,000 records ($6 total) -> **[GUMROAD-PENDING-QUOTA]** |
+| **Full dataset** | **28,954 rows** | CSV + JSON | Buy on Gumroad -- $2 per 10,000 records ($6 total) -> **https://islandprosoftware.gumroad.com/l/ujfyci** |
 
 > Start with the [free 500-row sample](companies_sample500.csv) -- same columns, same format as the full file. If it fits your workflow, grab the complete 28,954-row dataset on Gumroad.
 
@@ -48,7 +48,7 @@ This repo contains a **free 500-row sample** of information technology and servi
 - **28,954 canada information technology and services companies**, same 10 columns as the sample
 - Priced at **$2 per 10,000 records = $6 total**
 - Delivered as `companies.csv` (+ JSON version) immediately after purchase
-- Buy here -> **[GUMROAD-PENDING-QUOTA]**
+- Buy here -> **https://islandprosoftware.gumroad.com/l/ujfyci**
 
 ## Use cases
 
